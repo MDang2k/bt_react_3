@@ -3,7 +3,7 @@ import ItemShoe from './ItemShoe';
 
 export default class ListShoe extends Component {
   render() {
-    console.log('<ListShoe/>', this.props);
+    // console.log('<ListShoe/>', this.props);
 
     return (
       <div className="row">
